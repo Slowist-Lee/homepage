@@ -16,9 +16,11 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+<!-- 
 Xin Li  
-Hangzhou, China | slowistlee@gmail.com | github.com/Slowist-Lee
+Hangzhou, China | slowistlee@gmail.com | github.com/Slowist-Lee -->
+
+# 👨‍🎓 About Me
 
 I am a Junior student majoring in Information Engineering at the **[College of Information Science and Electronic Engineering](https://www.isee.zju.edu.cn/), Zhejiang University**. I am also pursuing a minor in the **Advanced Honor Class of Engineering Education** at the Chu Kochen Honors College.
 
@@ -45,8 +47,6 @@ Circuit-MLLM: Topological Logic-Guided Latent-Space Visual Reasoning for Circuit
 <!-- **Xin Li**
 
 - Designed the Circuit-Clip Framework, integrating topological semantics of circuit diagrams into latent representation space via multi-level vision-language alignment. -->
-</div>
-</div>
 
 # 🛠️ Research & Projects
 - **Efficient Transformers** | *Jun 2026*  
@@ -58,7 +58,7 @@ Circuit-MLLM: Topological Logic-Guided Latent-Space Visual Reasoning for Circuit
 - **Five-Stage Pipelined RISC-V CPU** | *Oct – Nov 2025*  
   Designed & implemented RV32I processor in Verilog; course project.
 
-# 🎖 Honors and Awards
+# 🥇 Honors and Awards
 - *2025.09* National Second Prize (Provincial First Prize), China Undergraduate Mathematical Contest in Modeling (CUMCM)
 - *2025.10* Jun Sheng Scholarship
 - *2024.09* National Scholarship (Top 6%)
