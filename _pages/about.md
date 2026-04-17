@@ -61,9 +61,8 @@ Circuit-MLLM: Topological Logic-Guided Latent-Space Visual Reasoning for Circuit
 # 🥇 Honors and Awards
 - *2025.09* National Second Prize (Provincial First Prize), China Undergraduate Mathematical Contest in Modeling (CUMCM)
 - *2025.10* Jun Sheng Scholarship
-- *2024.09* National Scholarship (Top 6%)
+- *2024.09* National Scholarship
 - *2024.09* First Prize Scholarship of Zhejiang University
-- *2024.09* Outstanding Student of Zhejiang University
 
 # 📖 Educations
 - *2023.09 – 2027.06 (Expected)*, **B.Eng. in Information Engineering**, Zhejiang University & **Advanced Honor Class of Engineering Education**.
