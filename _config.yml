@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Slowist's Profile. "
+title                    : "Slowist's Profile"
+description              : "Junior @ ZJU ISEE & ACEE, Visit @ Westlake University"
 repository               : "Slowist-Lee/homepage"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xin LI"
-  avatar           : "images/avatar.jpg"
+  avatar           : "images/andriod-chrome-512x512.png"
   bio              : "Zhejiang University"
   location         : "Hangzhou, China"
   employer         :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Slowist-Lee"
   google_plus      :
   keybase          :
   instagram        :

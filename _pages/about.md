@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "Xin Li"
+excerpt: "MLSys | Efficient AI"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,42 +17,60 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Xin Li  
+Hangzhou, China | slowistlee@gmail.com | github.com/Slowist-Lee
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a Junior student majoring in Information Engineering at the **[College of Information Science and Electronic Engineering](https://www.isee.zju.edu.cn/), Zhejiang University**. I am also pursuing a minor in the **Advanced Honor Class of Engineering Education** at the Chu Kochen Honors College.
+
+I am currently focusing on my research in the **ML Systems & Efficient LLM Inference** direction, where I am working under the guidance of [Huan Wang](https://huanwang.tech/).
+
+Previously, I was a research intern at the [ZipLab](https://ziplab.co/) (2026.1–2026.4) advised by [Bohan Zhuang](https://bohanzhuang.github.io/), and a research intern at the [Design Automation Lab](http://zju-idea.zju.edu.cn/members/qi-sun.html) (2025.4–2026.1) advised by [Qi Sun](https://qisunchn.top/).
+
+Feel free to contact me at [slowistlee@gmail.com](mailto:slowistlee@gmail.com) or [leexin005@zju.edu.cn](mailto:leexin005@zju.edu.cn) for discussion, collaboration, or any related inquiries.
+
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.02*: &nbsp;🎉🎉 SRTP Project *Circuit-MLLM* under review at **ECCV 2026**
+- *2025.10*: &nbsp;🎉🎉 Awarded **Jun Sheng Scholarship**
+- *2025.09*: &nbsp;🎉🎉 **National Second Prize (Provincial First Prize)**, China Undergraduate Mathematical Contest in Modeling
+- *2024.09*: &nbsp;🎉🎉 **National Scholarship** (Top 6%), First Prize Scholarship & Outstanding Student of Zhejiang University
 
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- # 📝 Publications & Preprints
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026 Under Review</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Circuit-MLLM: Topological Logic-Guided Latent-Space Visual Reasoning for Circuit Schematic Comprehension -->
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+<!-- **Xin Li**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Designed the Circuit-Clip Framework, integrating topological semantics of circuit diagrams into latent representation space via multi-level vision-language alignment. -->
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# 🛠️ Research & Projects
+- **Efficient Transformers** | *Jun 2026*  
+  Handwritten high-performance Transformer framework in PyTorch & Triton; achieved **12× forward** & **10× backward** acceleration; optimized inference with Static KV Cache & dynamic memory management.
+- **SRTP Project: Circuit-MLLM** | *Jun 2025 – Feb 2026*  
+  Led vision-language alignment design; under review at ECCV 2026.
+- **ZJU SCT HPC Week** | *Oct 2025*  
+  Accelerated LLM operators with AVX vectorization & OpenMPI; ranked **17th** in the competition.
+- **Five-Stage Pipelined RISC-V CPU** | *Oct – Nov 2025*  
+  Designed & implemented RV32I processor in Verilog; course project.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09* National Second Prize (Provincial First Prize), China Undergraduate Mathematical Contest in Modeling (CUMCM)
+- *2025.10* Jun Sheng Scholarship
+- *2024.09* National Scholarship (Top 6%)
+- *2024.09* First Prize Scholarship of Zhejiang University
+- *2024.09* Outstanding Student of Zhejiang University
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 – 2027.06 (Expected)*, **B.Eng. in Information Engineering**, Zhejiang University & **Advanced Honor Class of Engineering Education**.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💻 Skills
+- **Programming**: Python/PyTorch, C/C++, LaTeX, Shell
+- **Languages**: Chinese (Native), English (TOEFL 98/120)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-- # 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
